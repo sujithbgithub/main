@@ -11,3 +11,10 @@ It points to the tip of the current branch in our repository
 BRANCH :-
 
 Branches is to create a new set of code from what we're working on, and it's going to be separate from our master branch.
+
+
+Commands :-
+
+view staged changes
+
+git diff --staged
